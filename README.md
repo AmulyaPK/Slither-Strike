@@ -14,8 +14,8 @@ Features:
 Gameplay:
 1. Choose a difficulty level by entering 1 (Easy), 2 (Medium), or 3 (Hard).
 2. Use the following keys to control the snake:
-     W: Move Up
-     A: Move Left
-     S: Move Down
-     D: Move Right
+   W: Move Up
+   A: Move Left
+   S: Move Down
+   D: Move Right
 3. The game ends when the snake collides with its own tail.
