@@ -1,7 +1,7 @@
 #include<iostream>
 #include<windows.h>
-#include<conio.h>
 #include<cstdlib>
+#include<conio.h>
 using namespace std;
 
 const int height = 30;
